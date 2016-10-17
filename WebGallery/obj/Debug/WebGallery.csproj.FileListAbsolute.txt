@@ -1,0 +1,60 @@
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\csc.exe
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\System.Collections.Immutable.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\vbc.exe
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\VBCSCompiler.exe
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\roslyn\VBCSCompiler.exe.config
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\WebGallery.dll.config
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\WebGallery.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\WebGallery.pdb
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\obj\Debug\WebGallery.csprojResolveAssemblyReference.cache
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\obj\Debug\WebGallery.dll
+c:\users\crowreaper\documents\visual studio 2015\Projects\WebGallery\WebGallery\obj\Debug\WebGallery.pdb
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\csc.exe
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\vbc.exe
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\VBCSCompiler.exe
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\WebGallery.dll.config
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\WebGallery.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\WebGallery.pdb
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\obj\Debug\WebGallery.csprojResolveAssemblyReference.cache
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\obj\Debug\WebGallery.dll
+C:\Users\VosáhloJakub\Desktop\WebGallery\WebGallery\obj\Debug\WebGallery.pdb
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\csc.exe
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\vbc.exe
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\WebGallery.dll.config
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\WebGallery.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\WebGallery.pdb
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\obj\Debug\WebGallery.csprojResolveAssemblyReference.cache
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\obj\Debug\WebGallery.dll
+C:\Users\Crowreaper\Desktop\WebGallery\WebGallery\obj\Debug\WebGallery.pdb

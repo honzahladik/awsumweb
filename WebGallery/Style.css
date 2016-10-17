@@ -1,0 +1,141 @@
+﻿body {
+    font-family: 'Comic Sans MS', fantasy;
+    background-image: url(img/bg.jpg);
+    background-size: 100% 100%;
+    background-color: black;
+    background-attachment: scroll;
+    color: #db9d47;
+}
+
+header {
+    text-align: center;
+    font-size: 40px;
+    border: medium double black;
+    background-image: url(img/bg.png);
+}
+
+aside {
+    width: 250px;
+    background-color: #24272b;
+    text-align: center;
+    vertical-align: top;
+    display: table-cell;
+    color: #db9d47;
+}
+
+    aside:hover {
+        background-image: url(img/frog.gif);
+    }
+
+section {
+    display: table-cell;
+    width: auto;
+    background-color: #00355b;
+    color: #db9d47;
+}
+
+img {
+    margin: 5px 25px;
+}
+
+article {
+    display: inline-block;
+}
+
+nav {
+    background-color: #24272b;
+    color: #db9d47;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+section > article > img {
+    width: 250px;
+    height: 250px;
+}
+
+
+#left {
+    display: inline-block;
+    margin-right: 500px;
+    text-align: left;
+}
+
+#copy {
+    display: inline-block;
+    text-align: right;
+}
+
+#wrapper {
+    display: table;
+    margin: 0 150px;
+}
+
+#ulwrap {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.scnd {
+    padding-left: 10px;
+    padding-right: 10px;
+    position: absolute;
+    visibility: hidden;
+    display: block;
+}
+
+.scnd > li {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display: block;
+}
+
+#ulwrap > li {
+    padding: 9px 8px;
+}
+
+#ulwrap > li:hover {
+    background-color: #3e6680;
+}
+
+#ulwrap > li:hover > ul {
+    visibility: visible;
+    background-color: #00355b;
+    border: 5px solid #db9d47;
+}
+
+.scnd > li > a {
+    color: #db9d47;
+    text-decoration: none;
+}
+
+#deti {
+    height: 200px;
+}
+
+#satan {
+    width: 200px;
+}
+
+#programator {
+    height: 200px;
+}
+
+#swag {
+    width: 140px;
+}
+
+#deprese {
+    height: 210px;
+}
+
+#am {
+    width: 220px;
+}

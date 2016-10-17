@@ -1,0 +1,65 @@
+﻿body {
+    font-family: 'Lalezar', cursive;
+    color: #ffffff;
+    background-color: #00355b;
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+section {
+    flex-grow: 3;
+    background-color: #24272b;
+    margin: 8px 8px;
+    margin-right: 0px;
+    text-align:center;
+}
+
+header {
+    display: flex;
+    background-color: #24272b;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+    header > #div > p {
+        font-size: 50px;
+    }
+
+    header > #div > span {
+        font-size: 12px;
+    }
+
+nav {
+    flex-grow: 1;
+    background-color: #24272b;
+    margin: 8px 8px;
+    margin-left: 0px;
+}
+
+nav > a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#hakumen {
+    text-align: left;
+    width: 20%;
+    height: 100%;
+}
+
+#div {
+    flex-grow: 4;
+}
+
+section > article {
+    background-color: #3e6680;
+    padding: 3px 8px;
+    margin: 15px 400px;
+}
